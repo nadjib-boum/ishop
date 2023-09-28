@@ -23,7 +23,3 @@ An eCommerce application built using the MERN (MongoDB, Express.js, React, Node.
 - **Inventory Management:** Inventory levels are automatically updated to prevent overselling.
 
 - **Responsive Design:** The app is optimized for various devices.
-
-## Conclusion
-
-A MERN-based eCommerce app provides businesses with a feature-rich platform to establish and expand their online presence while offering customers a seamless shopping experience.
