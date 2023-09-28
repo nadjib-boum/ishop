@@ -1,0 +1,9 @@
+# dependencies
+api/config/.env
+api/node_modules
+client/node_modules
+socket
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
